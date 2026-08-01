@@ -13,17 +13,17 @@
   "devDependencies": {
     "@types/adm-zip": "^0.5.7",
     "@types/bun": "latest",
-    "@types/node": "^25.3.0"
+    "@types/node": "^25.5.0"
   },
   "peerDependencies": {
     "typescript": "^5"
   },
   "dependencies": {
-    "@actions/artifact": "^6.1.0",
+    "@actions/artifact": "^6.2.1",
     "@actions/core": "^3.0.0",
     "@actions/github": "^9.0.0",
     "@octokit/graphql": "^9.0.3",
-    "@slack/web-api": "^7.14.1",
-    "adm-zip": "^0.5.16"
+    "@slack/web-api": "^7.15.0",
+    "adm-zip": "^0.5.17"
   }
 }
